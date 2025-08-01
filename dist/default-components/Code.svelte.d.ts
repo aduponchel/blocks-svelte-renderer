@@ -4,8 +4,8 @@ type Code = {
     $set?(props: Partial<$$ComponentProps>): void;
 };
 declare const Code: import("svelte").Component<{
-    plainText: any;
+    children: any;
 }, {}, "">;
 type $$ComponentProps = {
-    plainText: any;
+    children: any;
 };

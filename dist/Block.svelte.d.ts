@@ -1,4 +1,4 @@
-import Block from "./Block.svelte";
+import Block from './Block.svelte';
 declare const Block: import("svelte").Component<{
     content: any;
 }, {}, "">;

@@ -7,7 +7,7 @@ declare const _default: {
             children: any;
         }, {}, "">;
         code: import("svelte").Component<{
-            plainText: any;
+            children: any;
         }, {}, "">;
         heading: import("svelte").Component<{
             level: any;
